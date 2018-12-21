@@ -1,0 +1,8 @@
+.box{
+    display: block;
+    background: #ffaaaa;
+}
+
+a{
+    cursor: pointer;
+}
